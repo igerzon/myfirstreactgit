@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myfirstreactgit/static/css/main.073c9b0a.css",
+    "main.js": "/myfirstreactgit/static/js/main.e68020a5.js",
+    "static/js/787.3baef426.chunk.js": "/myfirstreactgit/static/js/787.3baef426.chunk.js",
+    "index.html": "/myfirstreactgit/index.html",
+    "main.073c9b0a.css.map": "/myfirstreactgit/static/css/main.073c9b0a.css.map",
+    "main.e68020a5.js.map": "/myfirstreactgit/static/js/main.e68020a5.js.map",
+    "787.3baef426.chunk.js.map": "/myfirstreactgit/static/js/787.3baef426.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e68020a5.js"
+  ]
+}
